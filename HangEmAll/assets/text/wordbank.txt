@@ -1,0 +1,197 @@
+Import:Used to bring external code into your program
+String:Simple text
+Integer:A whole number
+Asset:A resource used in a program
+Library:A collection of pre-written
+Comment:Notes about your code that are ignored by the computer
+Bug:An error in the code
+Script:Small program or section of code
+Lambda:An anonymous function
+Build:To compile or create the final program
+Global:It’s Earth G
+Dawg:The one who barks
+CSS:The embodiment of torture
+Git:A version control system that tracks computer file changes
+Github:A cloud based service allowing developers to store and share their code using Git
+camelCase:The first word of a variable is lowercase while the rest start with capitals
+snake_case:Uses underscores to substitute for spaces in variables
+Gui:Short for graphical user interface
+IDE:A fancy text editor used by programmers
+kebab-case:Uses dashes to replace spaces in variables
+Function: only runs when called
+Loop: repeats itself
+Complex: used commonly in engineering equations
+Async: allows application to run multiple operations at the same time
+Math: simplifies mathematical equations and operations
+Class: user-defined input used to create objects
+ID: build it function unique to an object
+Pack: positions widgets relative to other widgets
+Parameter: place holders for actual values
+Type: tells you the type of the object
+Sequence: a generic ordered set
+Crwth: Welsh instrument
+Python:Created in February 1991
+Javascript:Created in December 1995
+Java:Created in May 1995
+Ruby:Created in December 1996
+Swift:Created in June 2014
+Lua:Created in 1993
+Typescript:Created in October 2012
+HTML:Created in December 1999
+Rust:Created in May 2015
+Tkinter: Python interface
+Random: A ****** number between 1-100
+VScode: Program most web dev programmers use
+API: Stand for Application Programming Interface
+Boolean: True or False
+Framework: Provides a foundation for your code
+IDE: Helps you write and debug code
+Database: Like a digital filing cabinet
+Binary: The language of computers
+Compiler: Converts code to binary
+HTTPS:Used in websites to make secure connections.
+HTTP:Used in websites to make standard connections.
+PHP:Commonly used for server side programming in websites.
+Elmo:The main character of Elmo’s World and Sesame Street.
+C:Commonly used to develop databases.
+C-sharp:Commonly used for mobile apps, desktop apps, and cloud-based services.
+Pygame:used most commonly to create multi-threaded programs in Python.
+TTK:Used to create widgets in Python.
+PIP:Used for installing packages.
+OS:Used to control the user’s operating system in Python.
+false:a Boolean value and result of a comparison operation
+await:suspends execution of a coroutine until it completes and returns the result data
+else:used in conditional statements if statements and decides what to do if the condition is False
+import:to make code in one module available in another
+pass:a null statement
+none:used to define a null value or no value at all
+break:allows you to exit a loop when an external condition is met
+Except:used to handle exceptions
+raise:raises a specific exception when a condition is met or the code encounters an error
+Flabbergast:greatly astonished
+Width:how wide it will be
+Height:how big its gonna be
+Def:Define a function
+Public:something that can be accessed anywhere
+Main: the main content of a document
+Config:used to store key values
+Widget:A representation in the browser
+Setting:easy access to your config/settings
+Self:access a class
+Monkey:a animal that goes around trees
+Padx:adding space before or after the the character
+Header-one:Indicates themain   topic on the web page
+Body-tag:Defines the document’s body
+P-tag:Represents a paragraph
+C-sharp:It is an object-oriented programming language from Microsoft
+root:It is the input
+Global:The variable created outside of the function
+frame:Rectangular region on the screen
+lbl_list:A collection of things
+comment:Line in code that the program ignores
+push():adds a new element to the end of the program
+console.log:writes the info on the console and does good for debugging
+Date():creates a new date object
+Operations:creates a new math operation
+document.write():write directly into the HTML document
+splice():Add positions in a specified way
+shift():Remove the first element of an array
+unshift():Add a new element of an array
+concat():join several arrays in one
+indexof():return the original value to the specified item
+List: a thing that holds multiple values
+for loop: a conditional iterative statement, can work with lists
+If: a statement that gives a condition
+Elif: a statement that goes with a condition to create a new condition combines the most common if statement keywords
+Else:  a statement that goes with a condition to create a new condition if nothing else happens
+Variable: something that can hold a value
+Os: an import that controls the functions of the computers
+Font: an option that can be imported from tkinter to style your text
+Random: an import that picks a random thing from whats given to it
+Messagebox: an option of an import from tkinter that creates a box that displays a message
+Float:any integer with decimals
+Algorithm:a set of instructions that are followed to solve a problem
+Data:any information that a computer can store in its programs
+Debugging:the process of identifying and repairing bugs in a program
+UI:the visual elements of a computer program
+Char:short for character; a single letter, number, or symbol
+Expression:any mathematical equation in code
+Syntax:the structure of a programming language
+Kerfuffle:a commotion or fuss
+Tuple:a collection of objects separated by commas.
+Method:a function that belongs to an object
+Nested loop:a loop in a loop
+While loop:loops if var is true
+Switch: a control mechanism that tests the value stored in a variable and executes the corresponding case statements
+Boolean:data type that can only be true or false
+Return:ends execution Gives back the result to the caller
+Yield:creates a generator function
+Range:returns a sequence of numbers starting from zero and increment by 1 by default and stops before the given number
+Command:calls a function when button is pressed in Tkinter
+Pneumonoultramicroscopicsilicovolcanoconiosis: a form of lung disease
+Argument: A value passed to a function when the function is called
+Attribute: A value associated with an object, usually refernced with dotted expressions
+Decorator: A function returning another function
+IDLE: An Integrated Development and Learning Environment for Python
+Iterator: An object representing a stream of data
+Metaclass: The class of a class
+Namespace: The place where a variable is stored
+Statement: Either an expression or one of several constructs with a keyword
+Zen: Beautiful is better than ugly. Explicit is better than implicit. Etc
+Mapping: executes a specified function for each item in an iterable
+Arrays: Like a List
+DOCTYPE html: opening tag on a webpage.
+style: used to define style information (CSS) for a document.
+Pointer: —- to a specific value stored at a specific address in a computers memory.
+Linux: an open source operating system designed to run on multiple devices.
+Pycharm: an integrated development environment made specifically for Python programmers.
+a: HTML link tag
+SMFL: The Simple and Fast Multimedia Library
+Bug: An error or problem in the code, causing the code to be unable to run. Destroying everything.
+Variable: A container for data.
+Loop: Repeats code.
+Function: Reusable code block.
+Boolean: True/false value.
+Array: Stores multiple values.
+Class: Blueprint for objects.
+String: Sequence of characters.
+Integer: Whole number.
+List: Ordered collection.
+File: Data storage.
+Method: Function in a class.
+Module: Code file.
+Attribute: Object value.
+Exception: Error handler.
+Dictionary: Key-value store.
+Algorithm: Step-by-step process.
+Debugging: Error fixing.
+Library: Reusable code.
+Syntax: Code structure.
+Framework: Codebase structure.
+Git: Version control.
+GitHub: Code hosting.
+HTML: Web markup.
+CSS: Styling language.
+JavaScript: Web scripting.
+Python: Versatile language.
+Java: Cross-platform language.
+Ruby: Dynamically typed.
+Swift: iOS language.
+Lua: Scripting language.
+TypeScript: Typed JavaScript.
+Rust: Systems language.
+Tkinter: Python GUI.
+Pygame: Game library.
+API: Code interface.
+IDE: Code editor.
+Database: Data storage.
+Binary: Base-2 system.
+Compiler: Code translator.
+HTTPS: Secure web.
+HTTP: Web data transfer.
+PHP: Server scripting.
+C: Low-level language.
+C-sharp: Microsoft's language.
+OS: Operating system.
+UI: User interface.
+Pointer: Memory reference.
